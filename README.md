@@ -199,7 +199,7 @@ You can check the workflows here: (.github/workflows)
 <!--- -- Snake Contribution Graph -------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
- ![Snake animation](https://github.com/SwatiBGupta1110/SwatiBGupta1110/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/SwatiBGupta1110/SwatiBGupta1110/blob/output/github-contribution-grid-snake.svg)
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
  
