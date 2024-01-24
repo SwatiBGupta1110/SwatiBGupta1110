@@ -104,6 +104,7 @@ and work
 | APIs | <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" /> |
 | Documentation    | <img src="https://img.shields.io/badge/YAML-black?style=for-the-badge&logo=YAML"/> <img src="https://img.shields.io/badge/Swagger-green?style=for-the-badge&logo=Swagger"/>|
 | Learning | <a href="https://www.coursera.org/user/ed60347106b22bceec236be21027615c"> <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" /> <img src="https://img.shields.io/badge/linkedinlearning-blue?style=for-the-badge&logo=Linkedin%20Learning&logoColor=blue" /> |
+| Soft Skills | <a href="https://img.shields.io/badge/Presentation-blue?style=for-the-badge&logo=Presentation"> <img src="https://img.shields.io/badge/StoryTelling-black?style=for-the-badge&logo=StoryTelling" /> <img src="https://img.shields.io/badge/collaborate-yellow?style=for-the-badge&logo=Collaborate" /> <img src="https://img.shields.io/badge/communication%20Skills-black?style=for-the-badge&logo=Communication%20Skills" /><img src="https://img.shields.io/badge/Interpersonal%20Skills-green?style=for-the-badge&logo=Interpersonal%20Skills" />|
   
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
