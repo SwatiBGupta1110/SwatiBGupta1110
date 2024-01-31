@@ -11,6 +11,8 @@
 
   <a href="https://www.linkedin.com/in/swatibadrigupta/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="profile of LinkedIn with username Anmol-Baranwal" /></a>
   <a href="mailto:swatibadrigupta@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="email of Swati i.e.   swatibadrigupta@gmail.com" /></a>
+ <a href="https://www.linkedin.com/in/swatibadrigupta/"><img src="https://img.shields.io/badge/Portfolio-orange?style=for-the-badge&logo=Portfolio&logoColor=orange" alt="portfolio of user swati gupta" /></a>
+
 
 </div>
 <br>
@@ -92,15 +94,27 @@ and work
 
 | Category        | Skills        |
 |-----------------|---------------|
-| Languages       | <img src="https://img.shields.io/badge/python-yellow?style=for-the-badge&logo=python"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />  |
-| Data Science Skills         | <img src="https://img.shields.io/badge/Machine%20Learning-blue?style=for-the-badge&logo=Machine%20Learning"/> <img src="https://img.shields.io/badge/Deep%20Learning-yellow?style=for-the-badge&logo=Deep%20Learning"/> <img src="https://img.shields.io/badge/Data%20Visualization-blue?style=for-the-badge&logo=Data%20Visualization"/> <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/> <img src="https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white"/> |
+| Languages       | <img src="https://img.shields.io/badge/python-yellow?style=for-the-badge&logo=python"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />  <img src="https://img.shields.io/badge/Batch%20scripts-black?style=for-the-badge&logo=Batch%20scripts"/>  |
+| Data Science Skills         | <img src="https://img.shields.io/badge/Machine%20Learning-blue?style=for-the-badge&logo=Machine%20Learning"/> <img src="https://img.shields.io/badge/Deep%20Learning-yellow?style=for-the-badge&logo=Deep%20Learning"/> <img src="https://img.shields.io/badge/Data%20Visualization-blue?style=for-the-badge&logo=Data%20Visualization"/> <img src="https://img.shields.io/badge/keras-red?style=for-the-badge&logo=keras
+"/> <img src="https://img.shields.io/badge/Scikitlearn-black?style=for-the-badge&logo=Scikit%20learn"/> 
+<img src="https://img.shields.io/badge/Spacy-blue?style=for-the-badge&logo=Spacy"/>  
+<img src="https://img.shields.io/badge/NLP-blue?style=for-the-badge&logo=NLP"/>  
+<img src="https://img.shields.io/badge/Pandas-purple?style=for-the-badge&logo=Pandas"/>  
+<img src="https://img.shields.io/badge/Numpy-darkblue?style=for-the-badge&logo=Numpy%20"/>  
+<img src="https://img.shields.io/badge/Seaborn-skyblue?style=for-the-badge&logo=Seaborn"/>  
+<img src="https://img.shields.io/badge/Matplotlib-yellow?style=for-the-badge&logo=Matplotlib"/>  
+<img src="https://img.shields.io/badge/POWER%20BI-black?style=for-the-badge&logo=POWER%20BI"/> |
 | Frameworks| <img src="https://img.shields.io/badge/django-black?style=for-the-badge&logo=django&labelColor=black&color=black"/> <img src="https://img.shields.io/badge/flask-black?style=for-the-badge&logo=flask&labelColor=blue&color=blue"/> <img src="https://img.shields.io/badge/fastapi-black?style=for-the-badge&logo=fastapi"/> |
 | Cloud Platforms| <img src="https://img.shields.io/badge/GCP-black?style=for-the-badge&logo=Google%20Cloud%20Platform"/> <img src="https://img.shields.io/badge/Azure-blue?style=for-the-badge&logo=Azure"/> <img src="https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=AWS"/> |
 | Styling & Frameworks | <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /> |
 | Database | <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>  |
 | Services & Tools| <a href="https://github.com/SwatiBGupta1110"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/JIRa-blue?style=for-the-badge&logo=JIRA"/> |
-| Competitive Coding | <a href="https://www.codechef.com/users/anmol119"><img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white"/></a> |
-| IDE & Environment | <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> <img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" /> <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" /> |
+| Competitive Coding | <a href="https://www.hackerrank.com/profile/swatibadrigupta"><img src="https://img.shields.io/badge/HackerRank-black?style=for-the-badge&logo=HackerRank"/>  <a href="https://www.kaggle.com/swatigupta11"><img src="https://img.shields.io/badge/Kaggle-white?style=for-the-badge&logo=Kaggle"/> </a> |
+| IDE & Environment | <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> <img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Anaconda-green?style=for-the-badge&logo=Anaconda" /> 
+<img src="https://img.shields.io/badge/Jupyter%20Notebook-orange?style=for-the-badge&logo=Jupyter%20Notebook" />
+<img src="https://img.shields.io/badge/Google%20Colab-white?style=for-the-badge&logo=Google%20Colab" />
+<img src="https://img.shields.io/badge/Spyder-red?style=for-the-badge&logo=Spyder" /> <img src="https://img.shields.io/badge/Pycharm-black?style=for-the-badge&logo=Pycharm" />|
 | APIs | <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" /> |
 | Documentation    | <img src="https://img.shields.io/badge/YAML-black?style=for-the-badge&logo=YAML"/> <img src="https://img.shields.io/badge/Swagger-green?style=for-the-badge&logo=Swagger"/>|
 | Learning | <a href="https://www.coursera.org/user/ed60347106b22bceec236be21027615c"><img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" /></a>  <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" /> <img src="https://img.shields.io/badge/linkedinlearning-blue?style=for-the-badge&logo=Linkedin%20Learning&logoColor=blue" /> |
