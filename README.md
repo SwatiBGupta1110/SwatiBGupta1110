@@ -26,25 +26,23 @@
 
 <i>&nbsp; Passionate data scientist dedicated to continuous learning and leveraging cutting-edge technologies to drive positive societal impact.</i><br><br>
 
-👋 Greetings! It's great to have you here. I'm Anmol Baranwal, a full-stack developer from India, super into Open Source, and love managing communities.
-
-🎯 I regularly create inspirational content on [LinkedIn](https://www.linkedin.com/in/Anmol-Baranwal/) and [Twitter](https://twitter.com/Anmol_Codes).
+👋 Welcome aboard! I'm Swati Gupta, your friendly data sorceress from the United Kingdom—immersed in the data realm, always hungry for knowledge. Let's embark on this coding adventure together! 💻✨
 
 ✨ I'm part of core developer team at [Guidlify](https://github.com/Guidlify), connecting sponsors and tech community events. I rank in GitHub [Top 5%](https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#github-stats-card).
 
 🏆 I secured [11th Rank](https://gssoc.girlscript.tech/leaderboard) in GSSoC'23 (contributor), did mentoring for [WebXDAO](https://github.com/WebXDAO/WebXDAO.github.io), and devised content as a core team member for _2 lakh+_ audiences.
 
-🎓 &nbsp; I'm pursuing a Bachelor of Technology with a degree in Computer Science, and played a pivotal role as a maintainer & contributor of [LinksHub](https://github.com/rupali-codes/LinksHub) to turn it into open source success story.
+🎓 Proud graduate from the University of Sussex, Brighton, UK – where I turned aspirations into a Master's in Data Science! 🌟 Ready to embark on the next coding adventure. 💻🚀
 
-🚀 &nbsp; I'm also part of exciting communities like [WebXDAO](https://github.com/WebXDAO), [Taipy](https://github.com/Avaiga/taipy), [DEV](https://dev.to/about) and my forte lies in exploring technologies like Nextjs with TypeScript to build products.
+🌐📸 Distinction in Masters of Data Science - just a glimpse of the journey! 🎓✨
 
-🔖 &nbsp; I have written several trending articles on [dev.to](https://dev.to/anmolbaranwal) with more than _40k_ views and _2k_ followers. Shoot me a message at anmolbaranwal119@gmail.com for sponsorships and collaboration.
+🚀 Passionately navigating Data Science galaxies, I thrive in vibrant communities, delving into the ever-evolving realms of technology! Let's discuss AI's profound impact, unravel its mysteries, and together, envision a world where tech fosters positive change. 🌐💬✨
 
-🚀 I built [designlyfe.tech](https://designlyfe.tech/) in Buildspace Season 4 and will continue working on more open source projects. Watch my journey of 6 weeks [here](https://buildspace.so/s4/demoday/designlyfe).
+🔖 &nbsp; Shoot me a message at swatibadrigupta@gmail.com for sponsorships and collaboration.
 
-🎁 I've been active on Product Hunt, where my outstanding [open-source resource](https://www.producthunt.com/posts/awesome-illustrations-for-projects) got _50+_ upvotes. I'm planning to launch more open source products in 2024.
+🚀 Unleashing the Power of Sign Language! 🌟 Recognized by mentors for revolutionizing communication through Image-Based Recognition and Domain-Specific Language Modeling. 
 
-😄 &nbsp; When I'm not coding, you can find me writing insightful articles on [dev.to](https://dev.to/anmolbaranwal), managing communities on [discord](https://discordapp.com/users/776749637826117640), or creating content on [LinkedIn](https://www.linkedin.com/in/Anmol-Baranwal/) & [Twitter](https://twitter.com/Anmol_Codes)
+😄   Outside of coding, you'll find me either tending to my plants, experimenting in the kitchen where my love for cooking thrives, or passionately crafting content for [LinkedIn](https://www.linkedin.com/in/swatibadrigupta/) – because life is a blend of creativity and technology! 🌱🍳✨
 
 🔥 &nbsp; In short, I love interacting with people and exploring life with tech in general :)
 
@@ -116,25 +114,7 @@ and work
 <!--- -- Projects Section ---------------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-# Projects <img src="https://user-images.githubusercontent.com/74038190/221857969-f37e1717-1470-4fe4-abb5-88b334cf64ea.png" alt="icon of todo list" width="40" />
-
-| Projects | Deployed Link | Repository | Tech Stack & Tools |
-|:---------|:-------------:|:----------:|:-------------------|
-| Designlyfe | [Designlyfe](https://www.designlyfe.tech/) | - | `Next.js` `TypeScript` `React` `Firebase` `Tailwind CSS` `Simple Analytics` `Pageclip` `Postman` | 
-| Handle Multiple Issues | [Marketplace](https://github.com/marketplace/actions/handle-multiple-issues) | [view](https://github.com/Anmol-Baranwal/handle-multiple-issues) | `TypeScript` `GitHub Actions` `GitHub API`| 
-| Flutter Portfolio App | - | [view](https://github.com/Anmol-Baranwal/Anmol-Baranwal-Profile) | `Dart` `Flutter` `Dot Navigation Bar`| 
-| WaitSmart | [view](https://wait-smart-chi.vercel.app/) | [view](https://github.com/Anmol-Baranwal/WaitSmart) | `Next.js` `JavaScript` `React` `Firebase` `Chakra UI` `CSS3` |
-| Coffee Compass | [view](https://coffee-project-anmol-baranwal.vercel.app/) | [view](https://github.com/Anmol-Baranwal/Coffee-Compass) | `Next.js` `JavaScript` `Postman` `Airtable Database` `CSS3` |
-| MongoDB Query Fetcher | [view](https://mongodb-query-fetcher.vercel.app/) | [view](https://github.com/Anmol-Baranwal/FullStack-MongoDB-Query-Fetcher) | `Next.JS` `Node.JS` `Express.JS` `JavaScript` `MongoDB` `CSS3` `MongoDB Compass` `Postman` |
-| Plasmo Chrome Extension | - | [view](https://github.com/Anmol-Baranwal/country-chrome-extension) | `Plasmo Framework` `TypeScript` `Tailwind CSS` `Google Chrome Browser`
-| ToDo List Web App | [view](https://todo-list-k7qu.onrender.com/) | [view](https://github.com/Anmol-Baranwal/ToDo-List-WebApp) | `Node.JS` `Express.JS` `JavaScript` `MongoDB` `Bootstrap` |
-| BabySteps | [view](https://baby-steps-rho.vercel.app/) | [view](https://github.com/Anmol-Baranwal/BabySteps-Project) | `Next.js` `JavaScript` `Postman` `CSS3` |
-| Client's Portfolio | [view](https://anmol-baranwal.github.io/Portfolio-Akanksha/) | [view](https://github.com/Anmol-Baranwal/Portfolio-Akanksha) | `JavaScript` `Bootstrap` `jQuery` `Vanilla Tilt` `Owl Carousel` `Typed JS` |
-| Notes Keeper App | [view](https://notes-keeper-app-i91s.vercel.app/) | - | `React` `JavaScript` `CSS3` `HTML5` |
-| Password Power | [view](https://password-generator-anmol-baranwal.vercel.app/) | - | `JavaScript` `CSS3` `HTML5` |
-| Color Shade Tool | [view](https://color-darken-tool.vercel.app/) | - | `JavaScript` `CSS3` `HTML5` |
-| Conceptual Mini Projects | - | [view](https://github.com/Anmol-Baranwal/Conceptual-Projects) | `JavaScript` `SCSS` `Tailwind` `jQuery` `Node.JS` `Express.JS` `CSS3` |
-| C++ Special Programs | - | [view](https://github.com/Anmol-Baranwal/CPP-Special-Programs) | `C++` |
+TABLE
 
 <br>
 
