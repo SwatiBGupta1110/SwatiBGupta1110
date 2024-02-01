@@ -10,8 +10,8 @@
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
   <a href="https://www.linkedin.com/in/swatibadrigupta/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="profile of LinkedIn with username Anmol-Baranwal" /></a>
+   <a href="https://www.linkedin.com/in/swatibadrigupta/"><img src="https://img.shields.io/badge/Portfolio-orange?style=for-the-badge&logo=Portfolio&logoColor=orange" alt="portfolio of user swati gupta" /></a>
   <a href="mailto:swatibadrigupta@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="email of Swati i.e.   swatibadrigupta@gmail.com" /></a>
- <a href="https://www.linkedin.com/in/swatibadrigupta/"><img src="https://img.shields.io/badge/Portfolio-orange?style=for-the-badge&logo=Portfolio&logoColor=orange" alt="portfolio of user swati gupta" /></a>
 
 
 </div>
@@ -102,7 +102,7 @@ and work
 | Styling & Frameworks | <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /> |
 | Database | <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>  |
 | Services & Tools| <a href="https://github.com/SwatiBGupta1110"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/JIRa-blue?style=for-the-badge&logo=JIRA"/> |
-| Competitive Coding | <a href="https://www.hackerrank.com/profile/swatibadrigupta"><img src="https://img.shields.io/badge/HackerRank-black?style=for-the-badge&logo=HackerRank"/>  <a href="https://www.kaggle.com/swatigupta11"><img src="https://img.shields.io/badge/Kaggle-white?style=for-the-badge&logo=Kaggle"/> </a> |
+| Competitive Coding | <a href="https://www.hackerrank.com/profile/swatibadrigupta"><img src="https://img.shields.io/badge/HackerRank-black?style=for-the-badge&logo=HackerRank"/> </a> <a href="https://www.kaggle.com/swatigupta11"><img src="https://img.shields.io/badge/Kaggle-white?style=for-the-badge&logo=Kaggle"/> </a> |
 | IDE & Environment | <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> <img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" /> <img src="https://img.shields.io/badge/Anaconda-green?style=for-the-badge&logo=Anaconda" /> <img src="https://img.shields.io/badge/Jupyter%20Notebook-orange?style=for-the-badge&logo=Jupyter%20Notebook" />
 <img src="https://img.shields.io/badge/Google%20Colab-white?style=for-the-badge&logo=Google%20Colab" /><img src="https://img.shields.io/badge/Spyder-red?style=for-the-badge&logo=Spyder" /> <img src="https://img.shields.io/badge/Pycharm-black?style=for-the-badge&logo=Pycharm" />|
 | APIs | <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" /> |
