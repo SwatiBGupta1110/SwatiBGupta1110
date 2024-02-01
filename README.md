@@ -28,10 +28,6 @@
 
 👋 Welcome aboard! I'm Swati Gupta, your friendly data sorceress from the United Kingdom—immersed in the data realm, always hungry for knowledge. Let's embark on this coding adventure together! 💻✨
 
-✨ I'm part of core developer team at [Guidlify](https://github.com/Guidlify), connecting sponsors and tech community events. I rank in GitHub [Top 5%](https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#github-stats-card).
-
-🏆 I secured [11th Rank](https://gssoc.girlscript.tech/leaderboard) in GSSoC'23 (contributor), did mentoring for [WebXDAO](https://github.com/WebXDAO/WebXDAO.github.io), and devised content as a core team member for _2 lakh+_ audiences.
-
 🎓 Proud graduate from the University of Sussex, Brighton, UK – where I turned aspirations into a Master's in Data Science! 🌟 Ready to embark on the next coding adventure. 💻🚀
 
 🌐📸 Distinction in Masters of Data Science - just a glimpse of the journey! 🎓✨
